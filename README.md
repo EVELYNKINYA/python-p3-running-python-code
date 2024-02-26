@@ -126,7 +126,7 @@ print("Hello sky!", end="!!!\n")
 What do you see when you execute `lib/app.py` from the command line with these new
 `end` strings?
 
-```console
+```console 
 $ python lib/app.py
 # => Hello world! Hello sun!!! Hello sky!!!!
 ```
